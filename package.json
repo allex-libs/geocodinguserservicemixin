@@ -1,0 +1,27 @@
+{
+  "name": "allex_geocodinguserservicemixinlib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with mixins for a User Service that wants to expose geocoding (via Hotel)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-libs/geocodinguserservicemixin.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "geocoding",
+    "user",
+    "service",
+    "mixin",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/geocodinguserservicemixin/issues"
+  },
+  "homepage": "https://github.com/allex-libs/geocodinguserservicemixin#readme"
+}
